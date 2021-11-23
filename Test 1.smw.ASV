@@ -1572,20 +1572,6 @@ Sy1=0
 Mx1=0
 ]
 [
-ObjTp=Bw
-H=1
-Lx=0
-Ly=0
-Rx=988
-Ry=603
-Xm=-1
-Ym=-1
-SH=22
-Z=100
-Ht=3
-Hi=1
-]
-[
 ObjTp=Sm
 H=1
 SmC=157
@@ -1934,9 +1920,8 @@ SmVr=1154
 PrH=4
 CF=1
 Cmn1=DEVICE CONTROL
-mC=2
+mC=1
 C1=22
-C2=23
 ]
 [
 ObjTp=Sm
@@ -1946,23 +1931,6 @@ Nm=AADS Front Panel AAS GUI Interface v1.cmc
 ObjVer=1
 PrH=21
 CF=1
-mP=1
-P1=
-]
-[
-ObjTp=Sm
-H=23
-SmC=103
-Nm=Epson PowerLiite Pro ASCII Proc.csp
-ObjVer=1
-PrH=21
-CF=1
-n1I=4
-n2I=2
-n1O=4
-mI=6
-mO=12
-tO=12
 mP=1
 P1=
 ]
